@@ -10,7 +10,7 @@ class SearchBar extends Component {
     constructor(props) {
         super(props);
 
-        this.state= { term: 'hi' }; /*placeholder와 비슷해보이지만 ''안의값은 실제 이용이 가능한 값*/
+        this.state= { term: 'h' }; /*placeholder와 비슷해보이지만 ''안의값은 실제 이용이 가능한 값*/
     }
     
   render() {
