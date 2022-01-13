@@ -4,5 +4,5 @@
 > npm install
 > npm start
 
-# react_reduct
+# react_redux
 
